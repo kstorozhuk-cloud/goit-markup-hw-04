@@ -26,3 +26,21 @@
     line-height: 1.5;
     color: #434455;
 }
+
+.feature-icon {
+    height: 112px;
+    margin-bottom: 8px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border: 1px solid #8e8f99;
+    border-radius: 4px;
+
+    background-color: #f4f4fd;
+}
+
+.feature-icon svg {
+    fill: #4d5ae5;
+}
